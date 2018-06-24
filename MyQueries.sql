@@ -1,4 +1,5 @@
 -- Basic Queries, to test knowledge
+-- 03/08/17
 
 -- 1)Show all information in the offices relation
 SELECT *FROM offices;
